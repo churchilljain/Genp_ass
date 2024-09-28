@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+input[type="file"] {
+  margin: 20px;
+}
+
+button {
+  margin: 20px;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+}
